@@ -52,8 +52,9 @@ All requests in Postman are organized into **Collections**. These allow for:
 
 ---
 
-[The Restful Booker API for API testing](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-DeleteBooking)
+[The Restful Booker API for API testing](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-DeleteBooking)  |    [Link to my Postman Collection](https://github.com/olha-yatskivska/api-testing-automation/blob/main/02-postman-tool/Restful%20Booker.postman_collection.json)
 
+---
 ## "CRUD Testing"
 
 > Verifying the complete lifecycle of a piece of data
